@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+h2 {color: purple;
+}
+h3 {color: purple;
+}
+ul {color: purple;
+ font-size: 2.1em;
+}
+
+header {
+	padding: 40px;
+	margin: 10px;
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 40px;
+	border: solid black 20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
